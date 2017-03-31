@@ -1,4 +1,6 @@
 31th March, 2017
 
-Its always hard to deal with someone elses results, specially when they don't document the proccess well. But ok, let's try.
+Its always hard to deal with someone elses results, specially when they don't document the proccess well. But ok, let's do it.
+I'm downdloading from S3 (s3cmd get s3://bioinfobiobureau/output/analysis_1/output/removeadaptersv2/Cabralea_canjerana.report.txt) the data
+from Cabralea to try to understand what Giovani has done with the sequences IDs.
 
