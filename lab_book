@@ -2,5 +2,8 @@
 
 Its always hard to deal with someone elses results, specially when they don't document the proccess well. But ok, let's do it.
 I'm downdloading from S3 (s3cmd get s3://bioinfobiobureau/output/analysis_1/output/removeadaptersv2/Cabralea_canjerana.report.txt) the data
-from Cabralea to try to understand what Giovani has done with the sequences IDs.
+from Cabralea to try to understand what Giovani has done with the sequences IDs. 
+Dan! Just tought that the IDs I need to find are the ones after masurca superReads are done! So, where are the masurca super reads?
+They are in S3 (s3biobureau01/WorkingFiles/PrjVotoran01B/). 
+
 
